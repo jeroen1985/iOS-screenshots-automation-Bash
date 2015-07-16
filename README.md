@@ -1,0 +1,1 @@
+# iOS-screenshots-automation-Bash
